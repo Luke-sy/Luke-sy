@@ -2,7 +2,6 @@
 
 -Business & Marketing
 
--Training towards Business Analytics / 
--Training on Power BI
+-Training towards Web Development.
 
-  -Learning Data /  Python
+  -Learning FullStack / currently @JS
